@@ -1,0 +1,24 @@
+{
+  "name": "com.lightleaderboard.sdk",
+  "version": "1.0.0",
+  "displayName": "LightLeaderboard SDK",
+  "description": "Official Unity C# SDK for LightLeaderboard — fast, lightweight leaderboard-as-a-service with instant ranks, player-centric views, and HMAC anti-cheat.",
+  "unity": "2021.3",
+  "documentationUrl": "https://leaderboard.goproso.com/app/docs/recipes/unity",
+  "changelogUrl": "https://github.com/blackarck/leaderboard-unity/releases",
+  "licensesUrl": "https://github.com/blackarck/leaderboard-unity/blob/main/LICENSE",
+  "keywords": [
+    "leaderboard",
+    "rankings",
+    "scores",
+    "anti-cheat",
+    "indie",
+    "game",
+    "backend"
+  ],
+  "author": {
+    "name": "LightLeaderboard",
+    "url": "https://leaderboard.goproso.com"
+  },
+  "type": "library"
+}
